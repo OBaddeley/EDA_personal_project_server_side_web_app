@@ -1,1 +1,1 @@
-# EDA_personal_project_client_side_web_app
+# EDA personal project. To build a client side web app.
