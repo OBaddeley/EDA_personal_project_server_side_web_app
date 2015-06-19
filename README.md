@@ -1,4 +1,4 @@
 # EDA personal project.
-To build a client side web app.
+Aim: To build your first client side web app.
 
-I have built a basic shopping cart app. 
+I built a basic shopping cart app. 
